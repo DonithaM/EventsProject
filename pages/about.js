@@ -1,7 +1,7 @@
 import React from "react";
 // localhost:3000/about
 import Link from "next/link";
-import Layout from "../components/layout";
+import Layout from "@/components/layout";
 
 const AboutPage = () => {
   return (

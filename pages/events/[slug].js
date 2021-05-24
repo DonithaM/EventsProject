@@ -1,7 +1,7 @@
 import React from "react";
 // localhost:3000/events/anything_here - for params
 import { useRouter } from "next/router"; //a hook
-import Layout from "../../styles/Layout.module.css";
+import Layout from "@/components/Layout";
 
 const EventPage = () => {
   const router = useRouter();
