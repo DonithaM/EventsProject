@@ -16,5 +16,5 @@ const EventPage = () => {
 export default EventPage;
 
 //NOTES
-//{router.push} - to redirect
+//{router.push} - to #7400b8irect
 //{router.query.slug} - gives param name - called slug bcs file name is slug

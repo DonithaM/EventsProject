@@ -1,6 +1,6 @@
 import React from "react";
 // localhost:3000/events
-import Layout from "../../styles/Layout.module.css";
+import Layout from "../../components/Layout";
 
 const EventsPage = () => {
   return (

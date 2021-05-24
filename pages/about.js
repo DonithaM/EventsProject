@@ -17,4 +17,4 @@ const AboutPage = () => {
 export default AboutPage;
 
 //NOTES:
-// In React, Link from react-router-dom and <Link to="/">Home</Link>
+// In React, Link from react-router-dom and <Link to="/">Home</Link>. Here, its href
